@@ -1,0 +1,35 @@
+<peoples>
+
+    <people>
+
+        <name>Sairamkrishna</name>
+
+        <surname>Mammahe</surname>
+
+        <price>50000</price>
+
+    </people>
+
+
+    <people>
+
+        <name>Gopal </name>
+
+        <surname>Varma</surname>
+
+        <price>60000</price>
+
+    </people>
+
+
+    <people>
+
+        <name>Raja</name>
+
+        <surname>Hr</surname>
+
+        <price>70000</price>
+
+    </people>
+
+</peoples>
